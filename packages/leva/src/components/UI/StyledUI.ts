@@ -110,7 +110,7 @@ export const StyledOptionalToggle = styled('input', {
   },
 })
 
-export const StyledLabel = styled('label', {
+export const StyledLabel = styled('p', {
   fontWeight: '$label',
   overflow: 'hidden',
   textOverflow: 'ellipsis',
